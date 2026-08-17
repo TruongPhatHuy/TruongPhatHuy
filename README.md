@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Truong Phat Huy 👋
 
-<!--
-**TruongPhatHuy/TruongPhatHuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Information Technology Student** 
+💡 Passionate about **Game Dev (Unity) and Applied AI Retrieval**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+
+- **Languages:** C++, Python, C#
+- **Engines & Tools:** Unity, Git, Visual Studio
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=TruongPhatHuy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruongPhatHuy&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
+
+---
+
+### 🌐 Connect with me
+- **LinkedIn:** [https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-huy-203b99391/](https://linkedin.com)
+- - **LinkedIn:** [https://www.facebook.com/phat.huy.555888/](https://www.facebook.com)
