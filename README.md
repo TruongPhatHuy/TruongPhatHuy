@@ -25,4 +25,4 @@
 
 ### 🌐 Connect with me
 - **LinkedIn:** [https://www.linkedin.com/in/tr%C6%B0%C6%A1ng-huy-203b99391/](https://linkedin.com)
-- - **LinkedIn:** [https://www.facebook.com/phat.huy.555888/](https://www.facebook.com)
+- **Facebook** [https://www.facebook.com/phat.huy.555888/](https://www.facebook.com)
