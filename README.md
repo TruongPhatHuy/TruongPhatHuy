@@ -15,7 +15,7 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TruongPhatHuy&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TruongPhatHuy&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TruongPhatHuy&layout=compact&theme=tokyonight" alt="Top Langs" />
