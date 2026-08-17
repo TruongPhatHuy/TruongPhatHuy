@@ -1,6 +1,6 @@
 # Hi there, I'm Truong Phat Huy 👋
 
-🎓 **Information Technology Student**  
+🎓 **Information Technology Student in University of Science**  
 💡 Passionate about **Computer Science, AI Retrieval, and Game Development**.
 
 ---
