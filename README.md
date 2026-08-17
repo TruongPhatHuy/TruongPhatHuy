@@ -1,7 +1,7 @@
 # Hi there, I'm Truong Phat Huy 👋
 
 🎓 **Information Technology Student**  
-💡 Passionate about **Game Development (Unity) and AI Retrieval**.
+💡 Passionate about **Computer Science, AI Retrieval, and Game Development**.
 
 ---
 
@@ -21,10 +21,6 @@
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=TruongPhatHuy&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=TruongPhatHuy&theme=tokyonight&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 ---
