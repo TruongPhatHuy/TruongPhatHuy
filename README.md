@@ -1,6 +1,6 @@
 # Hi there, I'm Truong Phat Huy 👋
 
-🎓 **Information Technology Student in VNUHCM - University of Science**
+🎓 **Information Technology Student in VNUHCM - University of Science**  
 💡 Passionate about **Computer Science, AI Retrieval, and Game Development**
 
 ---
