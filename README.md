@@ -20,11 +20,11 @@
 ### 📊 GitHub Activity
 
 <p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TruongPhatHuy&theme=tokyo-night" alt="Activity Graph" />
+  <img src="https://streak-stats.demolab.com?user=TruongPhatHuy&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### 🌐 Connect with me
-- **LinkedIn:** [www.linkedin.com/in/truong-huy07](www.linkedin.com/in/truong-huy07)
+- **LinkedIn:** [www.linkedin.com/in/truong-huy-203b99391](www.linkedin.com/in/truong-huy-203b99391)
 - **Facebook:** [fb.com/phat.huy.555888](https://facebook.com/phat.huy.555888)
