@@ -26,5 +26,5 @@
 ---
 
 ### 🌐 Connect with me
-- **LinkedIn:** [www.linkedin.com/in/truong-huy07](www.linkedin.com/in/truong-huy07)
+- **LinkedIn:** [www.linkedin.com/in/truong-huy07](https://www.linkedin.com/in/truong-huy07)
 - **Facebook:** [fb.com/phat.huy.555888](https://facebook.com/phat.huy.555888)
